@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Junjia He"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research scientist at Key Laboratory of Molecular Epidemiology in Shenzhen Center for Disease Control and Prevention(SZCDC), expert in all things test and account related"
+  location         : "No. 8, Longyuan Road, Shenzhen, Guangdong, China, 518055"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "homepage"
   google_plus      :
   keybase          :
   instagram        :
