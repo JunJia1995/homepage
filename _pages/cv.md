@@ -19,7 +19,7 @@ Work experience
 * Summer 2020: Research Assistant
    * Key Laboratory of Molecular Epidemiology in Shenzhen Center for Disease Control and Prevention
    * Duties included:
-     Conducted the sequencing of COVID-19 cases with Nanopore technologies and following phylogeny-based analyses
+    * Conducted the sequencing of COVID-19 cases with Nanopore technologies and following phylogeny-based analyses
      Instructed trainee to accomplish some experiments related to the group project
      Consolidated personal knowledge about statistical models for clinical data with SPSS and data analysis and graphics with R
      Led a team to design epidemiological questionnaires and organize the obtained information
